@@ -1,2 +1,2 @@
 # Changing-CSS-with-JS-changing
-https://superdupercjz.github.io/JS-Color-changing/
+https://superdupercjz.github.io/Changing-CSS-with-JS-changing/
