@@ -12,7 +12,16 @@
 .denverpic{
 
     float: left;
+    display:block;
+    margin-right: 20px;
+  
 }
 .textcenter{
     text-align: center;
+    font-size: 40px;
+    text-decoration: rgb(43, 159, 226)  underline;
+}
+.padding{
+    padding: 10px;
+    font-size: 20px;
 }
