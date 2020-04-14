@@ -3,3 +3,16 @@
     text-align: center;
     padding: 40px;
 }
+#pic1{
+  margin: 20px auto;
+  padding: 20px;
+  border: rgb(43, 159, 226) solid 4px;
+  overflow: auto;
+}
+.denverpic{
+
+    float: left;
+}
+.textcenter{
+    text-align: center;
+}
